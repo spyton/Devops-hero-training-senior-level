@@ -6,4 +6,5 @@
   * [git commands](git/git-commands/README.md)
     * [git reflog](git/git-commands/git-reflog.md)
     * [gitk](git/git-commands/gitk.md)
-* [docker](docker.md)
+* [docker](docker/README.md)
+  * [multiple stage build](docker/multiple-stage-build.md)
