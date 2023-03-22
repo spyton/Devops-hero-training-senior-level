@@ -1,2 +1,0 @@
-# certification topics
-
